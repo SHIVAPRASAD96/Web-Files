@@ -1,0 +1,16 @@
+.jumbotron {
+    margin-bottom: 0px;
+    background-position: 0% 25%;
+    background-size: cover;
+    background-image: url("ts004.jpg");
+    background-repeat: no-repeat;
+    color: blue;
+    
+    
+}
+.footer{
+	background-color: black;
+}
+.takenote-footer{
+	background-color: black;
+}
