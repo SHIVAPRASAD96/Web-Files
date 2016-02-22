@@ -1,0 +1,42 @@
+.jumbotron
+{
+	background-color: #a52a2a; 
+	color: #fff8dc;
+}
+.bg-1
+{
+	padding-bottom: 20px;
+	padding-top: 20px;
+	background-color: #1abc9c;;
+}
+#basic01
+{
+	font-size: 30px;
+	
+}
+div.background:
+{
+	margin: 40px 40px;
+}
+#div02
+{
+	background-color: #FF9933;
+	padding-bottom: 20px;
+    padding-top: 20px;
+    font-size: 30;
+    font-family:"Times New Roman", Times, serif;
+}
+div.transbox p
+  {
+  margin:30px 40px;
+  font-weight:bold;
+  color:#000000;
+  font-family:"Times New Roman", Times, serif;
+  }
+#para03
+{
+	font-size: 30;
+	background-color: #B8B8B8 ;
+	font-family:"Times New Roman", Times, serif;
+	text-align: center;
+}  
